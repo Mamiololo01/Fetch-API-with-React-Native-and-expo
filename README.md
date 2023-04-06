@@ -26,6 +26,8 @@ After the successful installation of Expo CLU, it’s time to use the CLI to cre
 
 Upon running this command, the CLI will ask you to chose a type of template for your project. Choose blank (minimal dependencies).
 
+<img width="726" alt="Screenshot 2023-04-06 at 08 42 08" src="https://user-images.githubusercontent.com/67044030/230320936-aee8825f-49de-4286-9edb-479244c0a074.png">
+
 Next, the CLI will ask you to set a name for your project:
 
 
