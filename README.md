@@ -47,3 +47,5 @@ In a terminal in your project directory, type the following command to run your 
 
 <img width="713" alt="Screenshot 2023-04-06 at 08 51 16" src="https://user-images.githubusercontent.com/67044030/230321907-5f1cb372-b3ce-4b43-a4ba-effd5791e562.png">
 
+
+<img width="1280" alt="Screenshot 2023-04-06 at 08 59 02" src="https://user-images.githubusercontent.com/67044030/230322251-25f74eb6-e039-4204-8fcb-b0b56123a480.png">
