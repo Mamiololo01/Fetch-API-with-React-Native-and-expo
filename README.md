@@ -43,4 +43,6 @@ In a terminal in your project directory, type the following command to run your 
 
 <img width="740" alt="Screenshot 2023-04-06 at 08 45 58" src="https://user-images.githubusercontent.com/67044030/230321562-e5028ee1-fb94-4e19-a41a-a31990c2bcbc.png">
 
+<img width="999" alt="Screenshot 2023-04-06 at 08 47 15" src="https://user-images.githubusercontent.com/67044030/230321762-106bd3ab-bb66-44e3-85f7-1b7e81db422e.png">
+
 
