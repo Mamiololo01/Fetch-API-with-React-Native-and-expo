@@ -41,4 +41,6 @@ After this, the required dependencies will be installed and your project will fi
 Step 3 - Run project
 In a terminal in your project directory, type the following command to run your project:
 
+<img width="740" alt="Screenshot 2023-04-06 at 08 45 58" src="https://user-images.githubusercontent.com/67044030/230321562-e5028ee1-fb94-4e19-a41a-a31990c2bcbc.png">
+
 
