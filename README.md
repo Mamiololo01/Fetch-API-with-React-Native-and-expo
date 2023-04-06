@@ -36,6 +36,8 @@ Next, the CLI will ask you to set a name for your project:
 
 After this, the required dependencies will be installed and your project will finish building.
 
+<img width="737" alt="Screenshot 2023-04-06 at 08 45 16" src="https://user-images.githubusercontent.com/67044030/230321373-94aecc88-a775-4713-8e9e-d9ddb18c3eb0.png">
+
 Step 3 - Run project
 In a terminal in your project directory, type the following command to run your project:
 
