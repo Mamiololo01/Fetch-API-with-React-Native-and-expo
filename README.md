@@ -16,6 +16,8 @@ Run the following command in your Ubuntu terminal to install the command line in
 
 The --global flag installs the package globally on the system, ​not just in your current project directory.
 
+<img width="744" alt="Screenshot 2023-04-06 at 08 31 33" src="https://user-images.githubusercontent.com/67044030/230320535-df22548b-06b7-4de2-a112-f306d607acd9.png">
+
 Step 2 - Create project
 After the successful installation of Expo CLU, it’s time to use the CLI to create an expo project. Run the following command:
 
