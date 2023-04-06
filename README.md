@@ -19,3 +19,14 @@ After the successful installation of Expo CLU, it’s time to use the CLI to cre
 
 
 Upon running this command, the CLI will ask you to chose a type of template for your project. Choose blank (minimal dependencies).
+
+Next, the CLI will ask you to set a name for your project:
+
+
+
+After this, the required dependencies will be installed and your project will finish building.
+
+Step 3 - Run project
+In a terminal in your project directory, type the following command to run your project:
+
+
