@@ -16,3 +16,6 @@ The --global flag installs the package globally on the system, ​not just in yo
 
 Step 2 - Create project
 After the successful installation of Expo CLU, it’s time to use the CLI to create an expo project. Run the following command:
+
+
+Upon running this command, the CLI will ask you to chose a type of template for your project. Choose blank (minimal dependencies).
