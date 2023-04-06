@@ -30,6 +30,8 @@ Upon running this command, the CLI will ask you to chose a type of template for 
 
 Next, the CLI will ask you to set a name for your project:
 
+<img width="650" alt="Screenshot 2023-04-06 at 08 45 07" src="https://user-images.githubusercontent.com/67044030/230321163-87826b3e-ef72-41d0-b439-ef82c7b36621.png">
+
 
 
 After this, the required dependencies will be installed and your project will finish building.
