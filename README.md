@@ -51,3 +51,5 @@ In a terminal in your project directory, type the following command to run your 
 <img width="1280" alt="Screenshot 2023-04-06 at 08 59 02" src="https://user-images.githubusercontent.com/67044030/230322251-25f74eb6-e039-4204-8fcb-b0b56123a480.png">
 
 <img width="668" alt="Screenshot 2023-04-06 at 09 22 20" src="https://user-images.githubusercontent.com/67044030/230322452-43209b51-720e-4b5d-9779-a5c4c8fa27f1.png">
+
+<img width="665" alt="Screenshot 2023-04-06 at 09 22 28" src="https://user-images.githubusercontent.com/67044030/230322602-09f08db3-4589-4548-94a2-33f2393acf7e.png">
